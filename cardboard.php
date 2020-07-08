@@ -3,12 +3,12 @@
  * Plugin Name: Cardboard
  * Version: 4.8.0
  * Description: This plugin enables you to enjoy 360 photo with Google Cardboard.
- * Author: Takayuki Miyauchi
- * Author URI: https://github.com/miya0001/cardboard
- * 
- * Modified by: Zeroichi-Production
+ * Author: Zeroichi-Production
+ * Author URI: https://github.com/Zeroichi-Production/cardboard
  * Modified Date: Tue, 31 Mar 2020 10:17:00 +0900
- * Plugin URI: https://github.com/Zeroichi-Production/cardboard
+ *  
+ * Created by: Takayuki Miyauchi
+ * Origin Plugin URI: https://github.com/miya0001/cardboard
  * Text Domain: cardboard
  * Domain Path: /languages
  * @package cardboard

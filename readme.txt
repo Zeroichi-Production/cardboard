@@ -1,12 +1,13 @@
 === Cardboard ===
-Contributors: miyauchi
-Modified by: Zeroichi-Production
+Created By: Zeroichi-Production <https://github.com/Zeroichi-Production>
 Tags: photo, cardboard, theta, 360
 Requires at least: 4.4
 Tested up to: 4.7
 Stable tag: 4.8.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Artist/origin: Takayuki Miyauchi <https://github.com/miya0001>
+Modified by: Zeroichi-Production
 
 This is a WordPress plugin enables you to enjoy 360 photo with Google Cardboard.
 
