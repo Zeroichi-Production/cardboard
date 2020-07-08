@@ -4,7 +4,7 @@
  * Version: 4.8.0
  * Description: This plugin enables you to enjoy 360 photo with Google Cardboard.
  * Author: Zeroichi-Production
- * Author URI: https://github.com/Zeroichi-Production/cardboard
+ * Author URI: https://github.com/Zeroichi-Production/cardboard01
  * Modified Date: Tue, 31 Mar 2020 10:17:00 +0900
  *  
  * Created by: Takayuki Miyauchi

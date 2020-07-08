@@ -37,7 +37,7 @@ Or insert shortcode manually:
 
 = GitHub =
 
-* https://github.com/Zeroichi-Production/cardboard
+* https://github.com/Zeroichi-Production/cardboard01
 
 == Installation ==
 
